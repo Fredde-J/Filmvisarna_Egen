@@ -1,0 +1,178 @@
+[
+    {
+        "title": "The Notebook",
+        "productionCountries": "USA",
+    
+        "productionYear": 2004,
+        "length": 123,
+        "genre": "Drama",
+        "distributor": "UIP",
+        "language": "engelska",
+        "subtitles": "svenska",
+        "director": "Nick Cassavetes",
+        "actors": [
+          "Ryan Gosling",
+          "Rachel McAdams"
+        ],
+        "description": "<p>A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are soon separated because of their social differences.</p>",
+        "images": [
+           "theNotebook1",
+           "thenotebook2"
+        ],
+        "trailer": "Z9AYPxH5NTM", 
+        "reviews": [
+          {
+            "source": "Sydsvenskan",
+            "quote": "ett drama berättat med stor ömhet",
+            "stars": 4,
+            "max": 5
+          },
+          {
+            "source": "Svenska Dagbladet",
+            "quote": "en film att förälska sig i",
+            "stars": 5,
+            "max": 5
+          },
+          {
+            "source": "DN",
+            "quote": "en het romans",
+            "stars": 4,
+            "max": 5
+          }
+        ]
+      },
+
+      {
+        "title": "Frozen II",
+        "productionCountries": "USA",
+        "productionYear": 2019,
+        "length": 103,
+        "genre": "Animation",
+        "distributor": "UIP",
+        "language": "engelska",
+        "subtitles": "svenska",
+        "director": "Jennifer Lee",
+        "actors": [
+            "Kristen Lee",
+            "Idina Menzel",
+            "Josh Gad"
+        ],
+        "description": "<p>Anna, Elsa, Kristoff, Olaf and Sven leave Arendelle to travel to an ancient, autumn-bound forest of an enchanted land. They set out to find the origin of Elsa's powers in order to save their kingdom. </p>",
+        "images": [
+            "https://m.media-amazon.com/images/M/MV5BMjA0YjYyZGMtN2U0Ni00YmY4LWJkZTItYTMyMjY3NGYyMTJkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UX182_CR0,0,182,268_AL_.jpg",
+            "call-me-poster2.jpg",
+            "https://1.bp.blogspot.com/-iWoLKlfDg5A/XeAVCMLeyMI/AAAAAAACdKQ/4qm7TEfeNY8QW5XXPpQo_Xr6VnNukt6qwCLcBGAsYHQ/s640/Frozen_II_animatedfilmreviews.filminspector.com_37.webp"
+        ],
+        "trailer": "suVQt0pfOLc",
+    
+        "reviews": [{
+                "source": "Sydsvenskan",
+                "quote": "ett drama berättat med stor ömhet",
+                "stars": 4,
+                "max": 5
+            },
+            {
+                "source": "Svenska Dagbladet",
+                "quote": "en film att förälska sig i",
+                "stars": 5,
+                "max": 5
+            },
+            {
+                "source": "DN",
+                "quote": "en het romans i åttiotalskostym",
+                "stars": 4,
+                "max": 5
+            }
+        ]
+    },
+
+    {
+        "title": "Bad Boys for Life",
+        "productionCountries": "USA",
+        "productionYear": 2020,
+        "length": 124,
+        "genre": "Action",
+        "distributor": "UIP",
+        "language": "engelska",
+        "subtitles": "svenska",
+        "director": "Adil El Arbi",
+        "actors": [
+            "Will Smith",
+            "Martin Lawrence"
+        ],
+        "description": "Poliserna Mike Lowrey och Marcus Burnett är tillbaka en sista gång i Bad Boys for Life ",
+        "images": [
+            "bad-boys-poster1.jpg",
+            "bad-boys-poster2.jpg"
+        ],
+        "trailers": [
+            "watch?v=jKCj3XuPG8M"
+        ],
+        "reviews": [{
+            "source": "Sydsvenskan",
+            "quote": "ett drama berättat med stor ömhet",
+            "stars": 4,
+            "max": 5
+        },
+        {
+            "source": "Svenska Dagbladet",
+            "quote": "en film att förälska sig i",
+            "stars": 5,
+            "max": 5
+        },
+        {
+            "source": "DN",
+            "quote": "en het romans i åttiotalskostym",
+            "stars": 4,
+            "max": 5
+        }
+    ]
+    },
+    
+    {
+        "title": "Parasit",
+        "productionCountries": [
+            "Sydkorea"
+        ],
+        "productionYear": 2019,
+        "length": 132,
+        "genre": "Drama",
+        "distributor": "TriArt",
+        "language": "koreanska",
+        "subtitles": "svenska",
+        "director": "Bong Joon-ho",
+        "actors": [
+            "Kang-ho Song",
+            "Sun-kyun Lee",
+            "Yeo-jeong Jo"
+        ],
+        "description": "Ki-taeks familj är en färgstark skara som hankar sig fram genom livet med hjälp av påhittighet och list. Men några pengar har de inte. Så när sonen, Ki-Woo, erbjuds jobbet som privatlärare till dottern i en rik familj så tvekar han inte en sekund. Väl på plats börjar han smida planer för resten av sin familj som en efter en får jobb i det nya huset. Men lögnerna blir allt fler och det dröjer inte länge innan situationen är helt utom kontroll.",
+        "images": [
+            "parasit1.jpg",
+            "parasit2.jpg"
+        ],
+        "trailer": "SEUXfv87Wpk",
+        "reviews": [{
+                "source": "Sydsvenskan",
+                "quote": "Årets bästa film, utan tvekan",
+                "stars": 5,
+                "max": 5
+            },
+            {
+                "source": "Svenska Dagbladet",
+                "quote": "Slapstick, social satir och shakespeareanskt drama",
+                "stars": 5,
+                "max": 6
+            },
+            {
+                "source": "DN",
+                "quote": "En sublim och laddad thriller späckad av svart humor och sorg",
+                "stars": 5,
+                "max": 5
+            }
+        ]
+    }
+
+
+
+]
