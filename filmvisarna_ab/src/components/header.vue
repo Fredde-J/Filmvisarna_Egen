@@ -88,18 +88,9 @@
           </ul>
         </div>
       </div>
-      <div class="col s8 m4 l4 xl4 valign-wrapper center">
+      <div class="col s8 m4 l4 xl4 valign-wrapper center-align">
         <router-link to="/">
-          <img
-            src="@/images/logo_2.png"
-            class="responsive-img"
-            v-show="!user.loggedIn"
-          />
-          <img
-            src="@/images/logo_1.png"
-            class="responsive-img"
-            v-show="user.loggedIn"
-          />
+          <h1>FILMVISARNA</h1>
         </router-link>
       </div>
 
@@ -180,6 +171,7 @@ export default {
 </script>
 
 <style scoped>
+@import url('https://fonts.googleapis.com/css?family=Monoton&display=swap');
 .container {
   flex-direction: column;
 }
@@ -296,6 +288,10 @@ li {
 
 .account {
   font-size: 1em;
+}
+h1{
+  font-family: 'Monoton', cursive;
+  font-size: 3em
 }
 
 @media only screen and (max-width: 1024px) {
